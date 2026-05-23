@@ -1,0 +1,10 @@
+google-generativeai
+python-dotenv
+langchain
+langchain-core
+langchain_openai
+langchain_anthropic
+langchain_google_genai
+langchain_community
+langchain-ollama
+langchain-classic
